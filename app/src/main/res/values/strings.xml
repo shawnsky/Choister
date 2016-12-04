@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Choister</string>
+    <string name="action_how_to_use">如何使用？</string>
+    <string name="action_add">添加一个Choice</string>
+    <string name="action_reselect">重选</string>
+
+    <string name="fragment_add_title">创建一个新的Choice</string>
+    <string name="fragment_add_positive_button">添加</string>
+    <string name="fragment_add_negative_button">取消</string>
+    <string name="fragment_add_description">描述</string>
+    <string name="fragment_add_description_edit_text_hint">输入描述</string>
+    <string name="fragment_add_color">颜色</string>
+
+
+    <string name="fragment_edit_title">编辑Choice</string>
+    <string name="fragment_edit_description">修改或者删除</string>
+    <string name="fragment_edit_positive_button">修改</string>
+    <string name="fragment_edit_delete">删除Choice</string>
+
+    <string name="how_to_use_text">Choister简单有效、方便快捷。帮助你在很多情况下做出决定，无论这个决定是大还是小，只需要「C」一下。</string>
+    <string name="how_to_use_text1">新建：点击工具栏＋按钮\n修改/删除：长按目标Choice\n做出选择：点击屏幕下方按钮C</string>
+    <string name="how_to_use_button">知道了</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
